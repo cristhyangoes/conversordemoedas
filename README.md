@@ -6,7 +6,6 @@
 
 <ul>
   <li>Spring Boot</li>
-  <li>Spring Data JPA</li>
   <li>Gson (Para consumir a API)</li>
   <li>ExchangeRate-API (API que fornece os valores das moedas)</li>
 </ul>
